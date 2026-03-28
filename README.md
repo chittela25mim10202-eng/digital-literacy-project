@@ -1,4 +1,4 @@
-# digital-literacy-project
+# Digital-literacy-project
 ## Student Details
 - **Name:** Chittela Venkata Sai Yaswanth Reddy
 - **Reg No:** 25MIM10202
