@@ -29,9 +29,9 @@ Drafted two professional emails and created a social media do’s and don’ts c
 Prepared a case study on cybercrime and created a prevention checklist for students.
 
 ## Useful Links
-- **GitHub Profile:** [Add your GitHub profile link here]
-- **LinkedIn Profile:** [Add your LinkedIn profile link here]
-- **Google Form Link:** [Paste your Google Form link here]
+- **GitHub Profile:** [https://github.com/chittela25mim10202-eng/Yashwanth-repo]
+- **LinkedIn Profile:** [https://www.linkedin.com/in/chittela-venkata-sai-yaswanth-reddy-4610a83a4?utm_source=share_via&utm_content=profile&utm_medium=member_android]
+- **Google Form Link:** [https://docs.google.com/forms/d/1ATpceJl-BG_hTqNOSsinrSXOl7Lbbkvo6GUt58NAD3g/edit]
 
 ## Repository Structure
 - `task-1-presentation/` → Infographic
